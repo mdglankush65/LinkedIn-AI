@@ -4,10 +4,7 @@
 Developed a Chrome extension tailored for LinkedIn users, aimed at streamlining message responses. This demo extension intelligently assists users in crafting replies to messages, enhancing productivity. Actual working of this extension can be seen when integrated with API.
 
 ## Demo 
-https://raw.githubusercontent.com/mdglankush65/LinkedIn-AI/blob/main/assets/demo.mp4
-<video src="https://raw.githubusercontent.com/mdglankush65/LinkedIn-AI/main/demo.mp4" controls="controls" style="max-width: 100%;"></video>
-[![watch the video](https://raw.githubusercontent.com/mdglankush65/LinkedIn-AI/main/demo.mp4)]
-(https://raw.githubusercontent.com/mdglankush65/LinkedIn-AI/main/demo.mp4)
+https://github.com/mdglankush65/LinkedIn-AI/assets/101817825/245b4534-17e8-4d5a-89ea-86760561eec6
 
 ## Setup
 1. Clone this repository. 
