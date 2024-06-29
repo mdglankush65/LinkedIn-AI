@@ -5,6 +5,8 @@ Developed a Chrome extension tailored for LinkedIn users, aimed at streamlining 
 
 ## Demo 
 <video src="https://raw.githubusercontent.com/mdglankush65/LinkedIn-AI/main/demo.mp4" controls="controls" style="max-width: 100%;"></video>
+[![watch the video](https://raw.githubusercontent.com/mdglankush65/LinkedIn-AI/main/demo.mp4)]
+(https://raw.githubusercontent.com/mdglankush65/LinkedIn-AI/main/demo.mp4)
 
 ## Setup
 1. Clone this repository. 
